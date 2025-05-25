@@ -1,0 +1,10 @@
+langchain
+gradio
+faiss-cpu
+pytesseract
+pillow
+unstructured
+pdfminer.six
+beautifulsoup4
+requests
+huggingface-hub
